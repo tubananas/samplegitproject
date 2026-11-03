@@ -1,0 +1,13 @@
+# Compiled Java Bytecode (ALWAYS EXCLUDE)
+/bin/
+/target/
+*.class
+
+# Temporary IDE Local Settings (ALWAYS EXCLUDE)
+.settings/
+.recommenders/
+
+# OS-generated files (ALWAYS EXCLUDE)
+.DS_Store
+Thumbs.db
+
